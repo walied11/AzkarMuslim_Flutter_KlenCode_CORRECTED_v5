@@ -5,7 +5,7 @@ plugins {
 }
 android {
     namespace "com.smali.fox"
-    compileSdk 35
+    compileSdk 36
     ndkVersion flutter.ndkVersion
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
